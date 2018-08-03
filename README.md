@@ -8,7 +8,7 @@ Publicising the joy of analysing Azure billing data.
 
 Championing Microsoft Azure.
 
-Genneral annoyance of those who become familair with the Badger.
+General annoyance of those who become familiar with the Badger.
 
 ## Badger Links
 
