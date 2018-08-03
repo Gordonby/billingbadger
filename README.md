@@ -16,3 +16,4 @@ The badger on [twitter](https://twitter.com/BillingBadger) - For general Badger 
 
 The badger [blog](http://gordon.byers.me/) - where topics such as Azure Billing scripts and analysis tips can be found.
 
+[https://aka.ms/billingbadger](https://aka.ms/billingbadger) is the short URL to this site.
