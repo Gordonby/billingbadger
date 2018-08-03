@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Billing Badger
+description: Links to what makes up the Badgers presence
+logo: https://github.com/Gordonby/billingbadger/raw/master/BadgerBadge.png
+show_downloads: false
